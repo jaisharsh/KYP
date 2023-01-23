@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094752478423",
+    "project_id": "knowyourphon",
+    "storage_bucket": "knowyourphon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094752478423:android:44652fdd90f3b353ea7c92",
+        "android_client_info": {
+          "package_name": "com.example.kyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094752478423-chh592ao3m95fnvrvciasi77smfflpei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXBfwLIAa1Ga2wWazm2ddPNnlubfPnfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094752478423-chh592ao3m95fnvrvciasi77smfflpei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
